@@ -2,6 +2,7 @@
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 15.0.3.
 ## Setup
+you need the CLI from https://angular.io/guide/setup-local#install-the-angular-cli
 after cloning  run `npm install`
 
 ## Development server
